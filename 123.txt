@@ -1,7 +1,7 @@
 EDIT :
 ON DEV BRANCH
 Git is a disdasda
-git is free software
+fix bug :	GIT is free software
 add open MV
 
 sad
