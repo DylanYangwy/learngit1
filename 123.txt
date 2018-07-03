@@ -9,8 +9,5 @@ sad
 very sad
 happy
 sad
-<<<<<<< HEAD
-and simple creating a new
-=======
-creating  a new branch is quick 
->>>>>>> feature1
+
+NEW
